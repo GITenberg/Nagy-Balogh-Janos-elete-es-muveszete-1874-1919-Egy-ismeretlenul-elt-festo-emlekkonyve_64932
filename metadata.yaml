@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '53103'
     url: http://www.gutenberg.org/2009/agents/53103
     wikipedia: https://hu.wikipedia.org/wiki/B%C3%A1lint_Jen%C5%91
+covers:
+- cover_type: archival
+  image_path: 64932-h/images/cover.jpg
 creator:
   author:
     agent_name: Elek, Artúr
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53101
     wikipedia: https://hu.wikipedia.org/wiki/Elek_Art%C3%BAr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64932#Nagy-Balogh-Janos-elete-es-muveszete-1874-1919-Egy-ismeretlenul-elt-festo-emlekkonyve
 gutenberg_issued: '2021-03-26'
 gutenberg_type: Text
 identifiers:
