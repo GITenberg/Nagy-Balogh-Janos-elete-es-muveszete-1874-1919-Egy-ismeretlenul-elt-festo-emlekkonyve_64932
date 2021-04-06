@@ -1,0 +1,44 @@
+_repo: Nagy-Balogh-Janos-elete-es-muveszete-1874-1919-Egy-ismeretlenul-elt-festo-emlekkonyve_64932
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Petrovics, Elek
+    alias: Petrovics, Alexis
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '53102'
+    url: http://www.gutenberg.org/2009/agents/53102
+    wikipedia: https://hu.wikipedia.org/wiki/Petrovics_Elek
+  contributor:
+    agent_name: Bálint, Jenő
+    alias: Balint, Jeno
+    birthdate: 1889
+    deathdate: 1945
+    gutenberg_agent_id: '53103'
+    url: http://www.gutenberg.org/2009/agents/53103
+    wikipedia: https://hu.wikipedia.org/wiki/B%C3%A1lint_Jen%C5%91
+creator:
+  author:
+    agent_name: Elek, Artúr
+    alias: Elek, Artur
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '53101'
+    url: http://www.gutenberg.org/2009/agents/53101
+    wikipedia: https://hu.wikipedia.org/wiki/Elek_Art%C3%BAr
+description: ''
+gutenberg_issued: '2021-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64932'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nagy Balogh, János, 1874-1919'
+- !lcc 'ND'
+- GITenberg
+title: "Nagy Balogh János élete és muvészete (1874-1919)\r\nEgy ismeretlenül élt festo\
+  \ emlékkönyve"
+url: http://www.gutenberg.org/ebooks/64932
